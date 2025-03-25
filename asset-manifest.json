@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dop3.1.1/static/css/main.e6c13ad2.css",
+    "main.js": "/dop3.1.1/static/js/main.620331b0.js",
+    "index.html": "/dop3.1.1/index.html",
+    "main.e6c13ad2.css.map": "/dop3.1.1/static/css/main.e6c13ad2.css.map",
+    "main.620331b0.js.map": "/dop3.1.1/static/js/main.620331b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.620331b0.js"
+  ]
+}
